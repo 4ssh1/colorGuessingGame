@@ -83,7 +83,8 @@
 }
 
 .gameCard{
-  width: 80%;
+  padding-top: 15px;
+  width: 60%;
 }
 
 .taskbar{
@@ -182,12 +183,14 @@
 }
 .taskbarContent{
 width: 100%;
-font-size: 13px;
+font-size: 10px;
 padding:  10px;
 }
-
 .option{
   height: fit-content;
+}
+.mainColor{
+height: 150px;
 }
 
 }

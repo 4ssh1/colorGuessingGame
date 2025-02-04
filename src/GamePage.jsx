@@ -98,7 +98,7 @@ useEffect(()=>{
         <div className='taskbar '>
             <div className='taskbarContent'>
                 <div data-testid="score">Score : {score} scored</div>
-                <div>Wrong answer && reduction in score!!</div>
+                <div>Wrong answer && reduction in score !</div>
             </div>
         </div>
     </Fragment>
